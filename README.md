@@ -4,6 +4,7 @@
 Estudiante de Ingeniería en Software en la Universidad Técnica Nacional (UTN), Costa Rica 🇨🇷
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-dereckjn.github.io-5B34D6?style=for-the-badge&logo=githubpages&logoColor=white)](https://dereckjn.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dereckjn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPGNpcmNsZSBjeD0iNSIgY3k9IjUiIHI9IjIuNCIvPjxyZWN0IHg9IjMiIHk9IjkiIHdpZHRoPSI0IiBoZWlnaHQ9IjEyIi8%2BPHBhdGggZD0iTTEwIDloMy44djEuN2MuNi0xIDEuOS0yIDMuOS0yIDMuNCAwIDQuMyAyLjIgNC4zIDUuMVYyMWgtNHYtNi4zYzAtMS41LS4zLTIuNy0xLjktMi43cy0yLjEgMS4yLTIuMSAyLjdWMjFoLTR6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/dereckjn)
 [![Email](https://img.shields.io/badge/Email-jaradereck1%40gmail.com-0B8F63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaradereck1@gmail.com)
 
 ---
