@@ -10,18 +10,17 @@ Estudiante de Ingeniería en Software en la Universidad Técnica Nacional (UTN),
 
 ### 💼 Experiencia
 
-**Desarrollador Full-Stack · Ópticas DRmax** (2026)
+**Desarrollador Full-Stack · Ópticas DRmax** (Jul – Oct 2026)
 
 Trabajé en el sistema de gestión de una cadena de ópticas en producción (pacientes, citas, exámenes visuales, órdenes de laboratorio, facturación con SAP y servicio al cliente) y en su **migración de un monolito .NET a 7 microservicios** con el patrón *strangler fig*.
 
-- 🔀 **Revisé e integré 247 pull requests** del equipo como tech lead de facto del ecosistema.
-- 🏢 Diseñé la estrategia de **multitenancy** (EF Core global query filters) con pruebas de aislamiento entre empresas.
-- 🔐 Lideré la **estandarización de permisos RBAC**, con validación al arrancar cada servicio.
+- 🏢 Implementé **multitenancy** con EF Core global query filters en varios servicios, con pruebas de aislamiento entre empresas.
+- 🔐 Migré servicios al esquema estandarizado de **permisos RBAC**, con validación al arrancar.
 - 🎧 Construí desde cero un **módulo de servicio al cliente**: bandeja Kanban, timeline, adjuntos y permisos por rol.
-- 📊 Implementé de punta a punta expediente clínico, reportes con exportación a Excel y auditoría de órdenes.
-- ⚡ Paralelicé la generación de órdenes en lote, lo que eliminó los timeouts.
+- 📊 Desarrollé de punta a punta el expediente clínico, un módulo de reportes con exportación a Excel y la auditoría de órdenes de laboratorio.
+- ⚡ Paralelicé la generación de órdenes en lote para evitar timeouts.
 
-`730+ commits` · `+139K líneas` · `7 microservicios` · `Clean Architecture + CQRS`
+`.NET 9` · `Vue 3` · `MySQL` · `Azure` · `Clean Architecture` · `CQRS`
 
 > Ese código está en repositorios privados de la empresa. La historia completa, con diagramas, está en mi [portafolio](https://dereckjn.github.io/).
 
@@ -90,13 +89,12 @@ Trabajé en el sistema de gestión de una cadena de ópticas en producción (pac
 
 **Full-Stack Developer** (.NET 9 · Vue 3 · MySQL · Azure) and Software Engineering student at Universidad Técnica Nacional, Costa Rica.
 
-At **Ópticas DRmax** (2026), I worked on a production management system for an optical retail chain and on its **migration from a .NET monolith to 7 microservices** using the strangler fig pattern:
+At **Ópticas DRmax** (Jul – Oct 2026), I worked on a production management system for an optical retail chain and on its **migration from a .NET monolith to 7 microservices** using the strangler fig pattern:
 
-- Reviewed and merged **247 pull requests** as de facto tech lead of the ecosystem.
-- Designed the **multitenancy** strategy (EF Core global query filters) with tenant-isolation tests.
-- Led the **RBAC permissions standardization**, with startup validation in every service.
+- Implemented **multitenancy** with EF Core global query filters across several services, backed by tenant-isolation tests.
+- Migrated services to the standardized **RBAC permission scheme**, with startup validation.
 - Built a **customer service module** from scratch: Kanban inbox, case timeline, attachments, and role-based permissions.
-- Parallelized batch lab order generation, eliminating request timeouts.
+- Parallelized batch lab order generation to prevent request timeouts.
 
 That code lives in private company repositories. The full story is on my [portfolio](https://dereckjn.github.io/?lang=en).
 
